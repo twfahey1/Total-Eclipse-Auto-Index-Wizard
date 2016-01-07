@@ -1,0 +1,14 @@
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\bin\Debug\Total Eclipse Auto-Index Wizard.exe.config
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\obj\Debug\Total Eclipse Auto-Index Wizard.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\obj\Debug\Total_Eclipse_Auto_Index_Wizard.Form1.resources
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\obj\Debug\Total_Eclipse_Auto_Index_Wizard.Properties.Resources.resources
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\obj\Debug\Total Eclipse Auto-Index Wizard.csproj.GenerateResource.Cache
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\bin\Debug\Total Eclipse Auto-Index Wizard.exe
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\bin\Debug\Total Eclipse Auto-Index Wizard.pdb
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\obj\Debug\Total Eclipse Auto-Index Wizard.exe
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\obj\Debug\Total Eclipse Auto-Index Wizard.pdb
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\bin\Debug\Total Eclipse Auto-Index Wizard.exe.manifest
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\bin\Debug\Total Eclipse Auto-Index Wizard.application
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\obj\Debug\Total Eclipse Auto-Index Wizard.exe.manifest
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\obj\Debug\Total Eclipse Auto-Index Wizard.application
+c:\users\tyler\documents\visual studio 2015\Projects\Total Eclipse Auto-Index Wizard\Total Eclipse Auto-Index Wizard\obj\Debug\Total_Eclipse_Auto_Index_Wizard.HowToUse.resources
