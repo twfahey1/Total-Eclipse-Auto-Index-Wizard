@@ -382,6 +382,27 @@ namespace Total_Eclipse_Auto_Index_Wizard
                 }
             }
         }
+
+        private void FourColumnExamSelection_CheckedChanged(object sender, EventArgs e)
+        {
+            OneColumnExamSelection.Checked = false;
+            FourColumnExamSelection.Checked = true;
+
+            examPreview.Image = Properties.Resources.Exam_4_Col_Preview;
+        }
+
+        private void OneColumnExamSelection_CheckedChanged(object sender, EventArgs e)
+        {
+            OneColumnExamSelection.Checked = true;
+            FourColumnExamSelection.Checked = false;
+
+            examPreview.Image = Properties.Resources.Exam_1_Column_Preview;
+        }
+
+        private void FourColumnExamSelection_CheckedChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
 
     

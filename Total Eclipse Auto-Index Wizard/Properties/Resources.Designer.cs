@@ -71,6 +71,36 @@ namespace Total_Eclipse_Auto_Index_Wizard.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Exam_1_Column_Preview {
+            get {
+                object obj = ResourceManager.GetObject("Exam_1_Column_Preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Exam_4_Col_Preview {
+            get {
+                object obj = ResourceManager.GetObject("Exam_4_Col_Preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Exhibit_Style_1_Preview {
+            get {
+                object obj = ResourceManager.GetObject("Exhibit_Style_1_Preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
         internal static byte[] indexNames {
