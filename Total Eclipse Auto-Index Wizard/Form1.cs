@@ -403,6 +403,17 @@ namespace Total_Eclipse_Auto_Index_Wizard
         {
 
         }
+
+        private void ExbSelection1_CheckedChanged(object sender, EventArgs e)
+        {
+            exhibitPreview.Image = Properties.Resources.Exhibit_Style_1_Preview;
+        }
+
+        private void ExbSelection2_CheckedChanged(object sender, EventArgs e)
+        {
+            exhibitPreview.Image = Properties.Resources.Exhibit_Style_2_Preview;
+
+        }
     }
 
     

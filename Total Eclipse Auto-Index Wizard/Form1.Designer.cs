@@ -92,9 +92,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(245, 663);
+            this.button1.Location = new System.Drawing.Point(407, 675);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(695, 101);
+            this.button1.Size = new System.Drawing.Size(290, 94);
             this.button1.TabIndex = 4;
             this.button1.Text = "Add Index Styles";
             this.button1.UseVisualStyleBackColor = true;
@@ -107,7 +107,7 @@
             this.helpToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1256, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(1176, 24);
             this.menuStrip1.TabIndex = 5;
             this.menuStrip1.Text = "menuStrip1";
             this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
@@ -186,6 +186,7 @@
             this.displayInfo.Size = new System.Drawing.Size(35, 13);
             this.displayInfo.TabIndex = 7;
             this.displayInfo.Text = "label1";
+            this.displayInfo.Visible = false;
             // 
             // exportSelectedPghs
             // 
@@ -225,11 +226,12 @@
             this.ExbSelection2.AutoSize = true;
             this.ExbSelection2.Location = new System.Drawing.Point(13, 95);
             this.ExbSelection2.Name = "ExbSelection2";
-            this.ExbSelection2.Size = new System.Drawing.Size(194, 17);
+            this.ExbSelection2.Size = new System.Drawing.Size(91, 17);
             this.ExbSelection2.TabIndex = 11;
             this.ExbSelection2.TabStop = true;
-            this.ExbSelection2.Text = "Exhibit Marked & Received 2 Column";
+            this.ExbSelection2.Text = "Exhibit Style 2";
             this.ExbSelection2.UseVisualStyleBackColor = true;
+            this.ExbSelection2.CheckedChanged += new System.EventHandler(this.ExbSelection2_CheckedChanged);
             // 
             // checkBox1
             // 
@@ -281,11 +283,12 @@
             this.ExbSelection1.AutoSize = true;
             this.ExbSelection1.Location = new System.Drawing.Point(13, 72);
             this.ExbSelection1.Name = "ExbSelection1";
-            this.ExbSelection1.Size = new System.Drawing.Size(103, 17);
+            this.ExbSelection1.Size = new System.Drawing.Size(91, 17);
             this.ExbSelection1.TabIndex = 18;
             this.ExbSelection1.TabStop = true;
-            this.ExbSelection1.Text = "Exhibit 1 Column";
+            this.ExbSelection1.Text = "Exhibit Style 1";
             this.ExbSelection1.UseVisualStyleBackColor = true;
+            this.ExbSelection1.CheckedChanged += new System.EventHandler(this.ExbSelection1_CheckedChanged);
             // 
             // OneColumnExamSelection
             // 
@@ -303,7 +306,7 @@
             // 
             this.exhibitPreview.Location = new System.Drawing.Point(601, 429);
             this.exhibitPreview.Name = "exhibitPreview";
-            this.exhibitPreview.Size = new System.Drawing.Size(553, 204);
+            this.exhibitPreview.Size = new System.Drawing.Size(565, 204);
             this.exhibitPreview.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.exhibitPreview.TabIndex = 17;
             this.exhibitPreview.TabStop = false;
@@ -336,14 +339,14 @@
             this.panel2.Controls.Add(this.label2);
             this.panel2.Location = new System.Drawing.Point(601, 294);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(216, 116);
+            this.panel2.Size = new System.Drawing.Size(209, 129);
             this.panel2.TabIndex = 21;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1256, 799);
+            this.ClientSize = new System.Drawing.Size(1176, 799);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.exhibitPreview);

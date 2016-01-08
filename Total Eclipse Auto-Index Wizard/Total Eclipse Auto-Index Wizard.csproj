@@ -151,9 +151,6 @@
     <None Include="Resources\4-Col-Exam Preview.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Exhibit_Preview.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\Style 1 Preview.png" />
   </ItemGroup>
   <ItemGroup>
@@ -164,6 +161,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Exam 1 Column Preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Style 2 Preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exhibit Style 2 Preview.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -101,6 +101,16 @@ namespace Total_Eclipse_Auto_Index_Wizard.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Exhibit_Style_2_Preview {
+            get {
+                object obj = ResourceManager.GetObject("Exhibit_Style_2_Preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
         internal static byte[] indexNames {
